@@ -15,4 +15,5 @@ read t
 
 s=$(echo "scale=2; $p * $t * $r / 100" | bc -l)
 echo "The simple interest is: $s"# github-final-project
+hiwo
 >>>>>>> c35b48196bd1673030d5804aee5b92dea0479691
